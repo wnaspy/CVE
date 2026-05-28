@@ -1,2 +1,2 @@
 # CVE
-CVE Found when im in CyRadar and Zlick3r
+Some CVEs Found when im in CyRadar and Zlick3r
